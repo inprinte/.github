@@ -1,7 +1,9 @@
 # Inprinte 
 
 An innovative website wich allow you to order 3D printed models easily. 
+
 You can also print out your own 3D models and receive them at home.
+
 You can even make money with your models thanks to our hub of creators.
 
 
