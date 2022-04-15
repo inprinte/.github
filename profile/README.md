@@ -18,12 +18,6 @@ You can even make money with your models thanks to our hub of creators.
 **Server:** golang, nodejs
 
 
-## Features
-
-- connexion / inscription
-- filters
-
-
 ## Demo
 
 Insert gif or link to demo
@@ -34,19 +28,9 @@ Insert gif or link to demo
 If you have any feedback or if you need support, please reach out to us at support@inprinte.fr
 
 
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
-## Optimizations
-
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
-
-
 ## Related
 
-Here are some related projects
+Here are the related repositories
 
 [frontend](https://github.com/inprinte/frontend)
 
@@ -55,13 +39,6 @@ Here are some related projects
 [backoffice backend](https://github.com/inprinte/backoffice-backend)
 
 [backoffice-frontend](https://github.com/inprinte/backoffice-frontend)
-
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
 
 
 ## Screenshots
