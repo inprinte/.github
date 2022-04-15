@@ -41,11 +41,6 @@ Here are the related repositories
 [backoffice-frontend](https://github.com/inprinte/backoffice-frontend)
 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
 ## Authors
 
 - [@romainsilvy](https://github.com/romainsilvy)
