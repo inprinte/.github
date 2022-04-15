@@ -18,10 +18,6 @@ You can even make money with your models thanks to our hub of creators.
 **Server:** golang, nodejs
 
 
-## Demo
-
-Insert gif or link to demo
-
 
 ## Feedback / support
 
