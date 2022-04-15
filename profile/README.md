@@ -48,7 +48,10 @@ What optimizations did you make in your code? E.g. refactors, performance improv
 
 Here are some related projects
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+[frontend](https://github.com/inprinte/frontend)
+[backend](https://github.com/inprinte/backend)
+[backoffice backend](https://github.com/inprinte/backoffice-backend)
+[backoffice-frontend](https://github.com/inprinte/backoffice-frontend)
 
 
 ## Roadmap
